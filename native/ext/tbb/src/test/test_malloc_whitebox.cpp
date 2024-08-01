@@ -1415,6 +1415,7 @@ void TesFunctionReplacementLog() {
 
 #endif /*!__TBB_WIN8UI_SUPPORT && defined(_WIN32)*/
 
+#define _USE_MATH_DEFINES
 #include <cmath> // pow function
 
 // Huge objects cache: Size = MinSize * (2 ^ (Index / StepFactor) formula gives value for the bin size,

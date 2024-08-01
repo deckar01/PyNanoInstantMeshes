@@ -19,6 +19,7 @@
     #pragma warning( push )
     #pragma warning( disable: 4985 )
 #endif
+#define _USE_MATH_DEFINES
 #include <cmath>
 #if _MSC_VER==1500 && !__INTEL_COMPILER
     #pragma warning( pop )

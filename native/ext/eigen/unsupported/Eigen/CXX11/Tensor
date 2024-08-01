@@ -43,6 +43,7 @@
   * Much of the documentation can be found \ref eigen_tensors "here".
   */
 
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <cstddef>
 #include <cstring>

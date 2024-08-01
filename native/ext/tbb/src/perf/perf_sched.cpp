@@ -16,6 +16,7 @@
 
 #include "perf.h"
 
+#define _USE_MATH_DEFINES
 #include <cmath>
 
 #include "tbb/blocked_range.h"

@@ -20,6 +20,7 @@
 #include "tbb/flow_graph.h"
 #include "harness_graph.h"
 #include <tuple>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <vector>
 

@@ -15,6 +15,7 @@
 */
 
 #include "../../common/gui/video.h"
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include "tbb/blocked_range.h"
 #include "tbb/parallel_for.h"

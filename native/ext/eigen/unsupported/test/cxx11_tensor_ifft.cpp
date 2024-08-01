@@ -9,6 +9,7 @@
 
 #include "main.h"
 #include <complex>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <Eigen/CXX11/Tensor>
 

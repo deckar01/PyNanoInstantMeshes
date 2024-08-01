@@ -31,6 +31,7 @@
 #define PCG32_MULT           0x5851f42d4c957f2dULL
 
 #include <inttypes.h>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <cassert>
 #include <algorithm>

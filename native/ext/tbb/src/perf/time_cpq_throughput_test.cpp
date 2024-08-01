@@ -18,6 +18,7 @@
 #define HARNESS_NO_PARSE_COMMAND_LINE 1
 
 #include <cstdlib>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <queue>
 #include "tbb/tbb_stddef.h"

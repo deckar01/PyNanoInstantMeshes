@@ -53,6 +53,7 @@
 #include <sstream>
 #include <stdexcept>
 #include <cfloat>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <cstring>
 #include <limits>

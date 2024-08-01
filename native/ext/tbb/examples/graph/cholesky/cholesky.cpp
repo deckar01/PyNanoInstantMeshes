@@ -17,6 +17,7 @@
 #include <string>
 #include <cstring>
 #include <cstdio>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <vector>
 #include <map>

@@ -15,6 +15,7 @@
 */
 
 #include <cstdlib>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <queue>
 #include "tbb/tbb_stddef.h"

@@ -171,6 +171,7 @@
 #include <iostream>
 #include <limits>
 #include <climits>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <cstring>
 #if HALF_ENABLE_CPP11_TYPE_TRAITS
